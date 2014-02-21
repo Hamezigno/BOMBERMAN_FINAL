@@ -1,0 +1,32 @@
+﻿La génération a démarré 21/02/2014 16:47:55.
+     1>Projet "C:\Users\Simon\Desktop\Projet C++- Bomberman (code)\Bomberman3\Bomberman3.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "Debug\Bomberman3.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Jeu.cpp
+         Jeu.cpp
+     1>c:\users\simon\desktop\projet c++- bomberman (code)\bomberman3\jeu.cpp(935): warning C4715: 'Jeu::get_joueur' : les chemins de contrôle ne retournent pas tous une valeur
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Simon\Desktop\Projet C++- Bomberman (code)\Debug\Bomberman3.exe" /NOLOGO SDL.lib SDLmain.lib SDL_image.lib SDL_ttf.lib SDL_mixer.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Bomberman3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Simon\Desktop\Projet C++- Bomberman (code)\Debug\Bomberman3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Simon\Desktop\Projet C++- Bomberman (code)\Debug\Bomberman3.lib" /MACHINE:X86 Debug\Bombe.obj
+         Debug\Bomber.obj
+         Debug\Bonus.obj
+         Debug\Case.obj
+         Debug\constante.obj
+         Debug\Graphics.obj
+         Debug\Jeu.obj
+         Debug\main.obj
+         Debug\Menu.obj
+         Debug\Terrain.obj
+         Debug\Timer.obj
+         Debug\v_Bombe.obj
+         Bomberman3.vcxproj -> C:\Users\Simon\Desktop\Projet C++- Bomberman (code)\Debug\Bomberman3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Simon\Desktop\Projet C++- Bomberman (code)\Debug\Bomberman3.exe;#1" /manifest Debug\Bomberman3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\Bomberman3.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\Bomberman3.lastbuildstate".
+     1>Génération du projet "C:\Users\Simon\Desktop\Projet C++- Bomberman (code)\Bomberman3\Bomberman3.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.42
